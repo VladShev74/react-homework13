@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-homework13/static/js/main.74464ab9.chunk.js",
+    "main.js.map": "/react-homework13/static/js/main.74464ab9.chunk.js.map",
+    "runtime-main.js": "/react-homework13/static/js/runtime-main.60220977.js",
+    "runtime-main.js.map": "/react-homework13/static/js/runtime-main.60220977.js.map",
+    "static/js/2.00cb77cb.chunk.js": "/react-homework13/static/js/2.00cb77cb.chunk.js",
+    "static/js/2.00cb77cb.chunk.js.map": "/react-homework13/static/js/2.00cb77cb.chunk.js.map",
+    "index.html": "/react-homework13/index.html",
+    "static/js/2.00cb77cb.chunk.js.LICENSE.txt": "/react-homework13/static/js/2.00cb77cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60220977.js",
+    "static/js/2.00cb77cb.chunk.js",
+    "static/js/main.74464ab9.chunk.js"
+  ]
+}
